@@ -1,9 +1,7 @@
-# ¡Hola! Soy Fidel Alberto Ramos 👋
+# ¡Hola! Soy Fidel Alberto Ramos 👋 👨🏻‍💻
 
 Soy un desarrollador frontend senior de Castellón de la Plana (Comunidad Valenciana/España). Me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
 
-<p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>

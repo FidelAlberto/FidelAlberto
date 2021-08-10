@@ -20,21 +20,22 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
   </a>
 </p>
 
-> Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
+> 📊 visualización avanzada, ⚛️ investigación y 🔀 análisis.
 
-> Solidity💻 | Go Lang | TypeScript | Javascript
+> Lenguajes💻 | Python | C++ | TypeScript | Javascript
 ---
 
-<h2>Follow  Me</h2>
+<h2>Mis Redes Sociales</h2>
 <p align="left">
 	<a href="https://github.com/FidelAlberto"><img src="https://img.shields.io/github/followers/crisgarner.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/vittaquant"><img src="https://img.shields.io/twitter/follow/crisgarner?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-Hello! I build open source software that is currently used by hundreds of thousands of developers at companies ranging from fortune 500 companies like Apple, Google, Facebook, Amazon, Netflix, Walmart, and Target all the way down to startups and indie developers.
+Hola! mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Matemática, Economía y la Inteligencia Artificial aplicada.
 
-Most of my open source software is written in Javascript and focused on React, Remote/Server State Management, Data Grids/Tables, Data Visualization, and Enterprise Application Architecture. 
+La mayoría de mis programas estan escritos en Python y  enfocados en  la visualización de datos, predicción  y análisis para encontrar soluciones a problemas prácticos y de gran utilidad a nuestra sociedad.
+
 
 ### For Developers
 

@@ -37,13 +37,10 @@ Hola! mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Mat
 La mayoría de mis programas estan escritos en Python y  enfocados en  la visualización de datos, predicción  y análisis para encontrar soluciones a problemas prácticos y de gran utilidad a nuestra sociedad.
 
 
-### For Developers
+### Para Empresas
 
-By helping your company become a Github Sponsor, you will not only feel great about giving back to the open source tools that run your business, but also get some awesome perks! Each of the sponsorship tiers on this page have their perks listed on them. If you believe your company could become a sponsor, then please reach out!
-
-### For Companies and Businesses
-
-By becoming a Github Sponsor, your company and brand will be recognized as a one that gives back to the open source tools that run your business and one that respects your developers time and your customers' experience. You also receive premium perks based on your sponsorship tier for things like free advertising on my web properties, free course vouchers, exclusive access to private repos and tools, free consultation hours with yours truly, and even on-demand support!
+Me gustaría estar involucrado en proyectos y trabajos variados, relacionados con los mercados financieroso y ciencia de datos para que me de la oportunidad de establecer nuevos contactos dentro de la empresa y aprender de personal más experimentado. Soy
+un profesional de mente abierta y orientado a objetivos y me encantaría tener la oportunidad de contribuir a la calidad, el rendimiento y la fiabilidad de fantasticas empresas. Además de utilizar toda mi pericia científica y otras habilidades para ayudarle a seguir creciendo en el futuro.
 
 ### Perks
 

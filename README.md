@@ -40,19 +40,19 @@ La mayoría de mis programas estan escritos en Python y  enfocados en  la visual
 ### Para Empresas
 
 Me gustaría estar involucrado en proyectos y trabajos variados, relacionados con los mercados financieroso y ciencia de datos para que me de la oportunidad de establecer nuevos contactos dentro de la empresa y aprender de personal más experimentado. Soy
-un profesional de mente abierta y orientado a objetivos y me encantaría tener la oportunidad de contribuir a la calidad, el rendimiento y la fiabilidad de fantasticas empresas. Además de utilizar toda mi pericia científica y otras habilidades para ayudarle a seguir creciendo en el futuro.
+un profesional de mente abierta y orientado a objetivos y me encantaría tener la oportunidad de contribuir a la calidad, el rendimiento y la fiabilidad de fantásticas empresas. Además de utilizar toda mi pericia científica y otras habilidades para ayudarle a seguir creciendo en el futuro.
 
-### Perks
+### Equipo VittaQuant
 
-To see all available perks, refer to the sponsorship tiers on this page :)
+Formo parte del equipo de Vittaquant Investments , una empresa de comercio algorítmico y HFT .
+Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  verla crecer hasta  conseguir sus primeros clientes institucionales , es  grato además ver sus resultados como una extensión de mis esfuerzos:
 
-The latest recorded stats for all TanStack properties:
+- 7.3 Millones administrados (USD)
+- 2 Sistemas de alta frecuencia para la creación de mercado
+- 3 Inversores Institucionales  confian en nosotros
+- Un promedio de 18% de rendimiento anual
 
-- 90,000+ Unique Monthly Visitors
-- Over 2 million monthly downloads on NPM
-- Over 18k personal stars on Github (50k+ external star contributions)
-
-If you have any further questions, feel free to send me a tweet or DM [@tannerlinsley](https://twitter.com/tannerlinsley) on Twitter. Thanks!
+Si tienes preguntas o quieres pertenecer a nuestro equipo sientete libre de enviarme un tweet [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
 
 ## Últimos articulos publicados
 
@@ -64,8 +64,8 @@ If you have any further questions, feel free to send me a tweet or DM [@tannerli
 
 ## Puedes encontrarme en:
 
-- Web personal [alextomas.com](https://alextomas.com)
+- [vittaquant-ai.com](https://alextomas.com)
 - [LinkedIn](https://www.linkedin.com/in/alex-tomas/)
 - [Medium](https://alextomash.medium.com/)
 - [Dev.to](https://dev.to/alextomas80/)
-- [Instagram](https://www.instagram.com/alextomas/)
+

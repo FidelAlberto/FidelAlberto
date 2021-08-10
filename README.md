@@ -21,7 +21,8 @@ Soy un desarrollador frontend senior de Castellón de la Plana (Comunidad Valenc
 </p>
 
 > Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
-> 💻 Solidity | Go Lang | TypeScript | Javascript
+
+> Solidity💻 | Go Lang | TypeScript | Javascript
 ---
 
 <h2>Follow  Me</h2>

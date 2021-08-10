@@ -52,7 +52,7 @@ Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  ver
 - 3 Inversores Institucionales  confian en nosotros
 - Un promedio de 18% de rendimiento anual
 
-Si tienes preguntas o quieres pertenecer a nuestro equipo sientete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
+Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
 
 ## Últimos articulos publicados
 

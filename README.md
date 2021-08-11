@@ -15,7 +15,6 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 	
 > 📊 visualización avanzada, ⚛️ investigación y 🔀 análisis.
 
-> Lenguajes💻 | Python | C++ | TypeScript | Javascript
 ---
 
 <h2>Mis Redes Sociales</h2>
@@ -29,13 +28,13 @@ Hola! mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Mat
 
 La mayoría de mis programas estan escritos en Python y  enfocados en  la visualización de datos, predicción  y análisis para encontrar soluciones a problemas prácticos y de gran utilidad a nuestra sociedad.
 
-## **Languages and Tools:**  
+## **Languajes y Herramientas:**  
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>

@@ -17,11 +17,10 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 
 ---
 
-<h2>Mis Redes Sociales</h2>
+<h2>Sobre mí</h2>
 <p align="left">
 	<a href="https://github.com/FidelAlberto"><img src="https://img.shields.io/github/followers/crisgarner.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/vittaquant"><img src="https://img.shields.io/twitter/follow/crisgarner?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 Hola! mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Matemática, Economía y la Inteligencia Artificial aplicada.

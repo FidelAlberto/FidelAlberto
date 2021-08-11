@@ -6,7 +6,7 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="" target="blank" style='margin-right:100px'>
+   <a href="" target="blank" style='margin-right:4px'>
     <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100" />
   </a>
    <a href="https://youtube.com/vittaquant" target="blank" style='margin-right:4px'>
@@ -23,7 +23,15 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
   </a>	
 </p>
 
+
+</p>
+
+<p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
+<p align="center">
 <a href="https://www.youtube.com/c/heatonresearch"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@heatonresearch"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/jeffheaton"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jeffheaton/"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/jeffheaton"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+	
+</p>
+	
 	
 > 📊 visualización avanzada, ⚛️ investigación y 🔀 análisis.
 

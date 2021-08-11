@@ -62,10 +62,4 @@ Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de env
 - [Condicionales y operadores lógicos en Svelte](https://alextomas.com/blog/condicionales-operadores-logicos-svelte)
 - [Cómo crear una galería de imágenes en Svelte](https://alextomas.com/blog/crear-galeria-imagenes-con-svelte)
 
-## Puedes encontrarme en:
-
-- [vittaquant-ai.com](https://vittaquant-ai.com)
-- [LinkedIn](https://www.linkedin.com/in/vittaquant/)
-- [Medium]()
-
 

@@ -7,19 +7,19 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="midudev" width="100" />
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100" />
   </a>
    <a href="https://youtube.com/vittaquant" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="midudev"  width="100" />
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing"  width="100" />
   </a>
   <a href="" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="midu.dev" width="35" />
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35" />
   </a>
   <a href="https://twitter.com/vittaquant" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="midudev" width="75" />
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75" />
   </a>
   <a href="https://twitter.com/vittaquant" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="midudev" width="40" />	
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40" />	
   </a>	
 </p>
 

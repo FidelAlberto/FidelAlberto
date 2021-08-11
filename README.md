@@ -55,7 +55,7 @@ La mayoría de mis programas estan escritos en Python y  enfocados en  la visual
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
 - **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh.
 - **Competitive Programming** - CPP, Python
-- **Web Development** - Javascript, MongoDb, Express, NodeJS
+- **Web Development** - Typescript, Javascript, MongoDb, Express, NodeJS
 
 ### Para Empresas
 

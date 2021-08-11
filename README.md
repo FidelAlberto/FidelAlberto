@@ -7,10 +7,10 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drawing" width="100"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
   </a>
    <a href="https://youtube.com/vittaquant" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="midudev"  width="100" />
   </a>
   <a href="" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="midu.dev" height="28px" width="28px" />

@@ -8,7 +8,7 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-<a href="https://www.youtube.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<a href="https://www.youtube.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@fidelalbertoramos"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 	
 </p>
 	
@@ -75,10 +75,9 @@ Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de env
 
 ## Últimos articulos publicados
 
-- [Crear un componente en Svelte y publicarlo en NPM](https://alextomas.com/blog/crear-componente-svelte-publicar-npm-package)
-- [El operador SPREAD en JavaScript](https://alextomas.com/blog/operador-spread-javascript)
-- [Dos formas de unir objetos en JavaScript](https://alextomas.com/blog/dos-formas-unir-objetos-javascript)
-- [Condicionales y operadores lógicos en Svelte](https://alextomas.com/blog/condicionales-operadores-logicos-svelte)
-- [Cómo crear una galería de imágenes en Svelte](https://alextomas.com/blog/crear-galeria-imagenes-con-svelte)
+- [High Frequency Trading](https://www.linkedin.com/feed/update/urn:li:ugcPost:6835256664464207872?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6835256664464207872%29)
+- [Como crear un bot para hacer trading algorítmico y HFT](https://medium.com/@fidelalbertoramos/como-crear-un-bot-para-trading-algor%C3%ADtmico-y-hft-3af8aa190d02)
+
+
 
 

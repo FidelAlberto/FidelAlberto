@@ -75,7 +75,7 @@ Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de env
 
 ## Últimos articulos publicados
 
-- [High Frequency Trading](https://www.linkedin.com/feed/update/urn:li:ugcPost:6835256664464207872?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6835256664464207872%29)
+- [High Frequency Trading](https://medium.com/@fidelalbertoramos/high-frequency-trading-7b25905ff58)
 - [Como crear un bot para hacer trading algorítmico y HFT](https://medium.com/@fidelalbertoramos/como-crear-un-bot-para-trading-algor%C3%ADtmico-y-hft-3af8aa190d02)
 
 

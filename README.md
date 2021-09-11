@@ -1,6 +1,6 @@
 # ¡Hola! Soy Fidel Alberto Ramos 👋 👨🏻‍💻
 
-Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas aplicando inteligencia artificial, estrategias de trading algorítmico y análisis econométrico  con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) / [JavaScript](https://www.javascript.com/), fáciles de usar y construidas con las mejores prácticas.
+Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando inteligencia artificial, estrategias de trading algorítmico y análisis econométrico  con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) / [JavaScript](https://www.javascript.com/), fáciles de usar y construidas con las mejores prácticas.
 
 
 

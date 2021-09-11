@@ -16,7 +16,9 @@ Soy un programador de Cusco (Perú). Me gusta crear aplicaciones web rápidas ap
 ## Mi Portafolio
 
 > 📊 [Quant AI   : App de análsis bursátil ](https://medium.com/@fidelalbertoramos/high-frequency-trading-7b25905ff58)
+<br />
 > ⚛️ investigación
+<br />
 > 🔀 análisis.
 ---
 

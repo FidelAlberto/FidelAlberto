@@ -14,7 +14,7 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 	
 
 ## Mi Portafolio
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 
 > 📊 [Quant AI   : App de análsis bursátil ](https://medium.com/@fidelalbertoramos/high-frequency-trading-7b25905ff58)
 	

@@ -14,7 +14,7 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 	
 
 ## Mi Portafolio
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![QUANT AI](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 
 > 📊 [Quant AI   : App de análsis bursátil ](https://medium.com/@fidelalbertoramos/high-frequency-trading-7b25905ff58)
 	

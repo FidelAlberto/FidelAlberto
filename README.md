@@ -17,7 +17,8 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 
 - [QUANT AI](https://quant-ai.herokuapp.com/)	  Una aplicación web para el analisis de volatilidad y volumen en acciones. (Versión de muestra 1.0 , la actual es v.3.0)
 	
-	![photo1587959842](https://user-images.githubusercontent.com/50537973/134267662-f2f52445-dcf4-41a7-aced-5b76fc91eae3.jpeg)
+![photo1587959650](https://user-images.githubusercontent.com/50537973/134267710-7ae16ccb-6a9b-4e99-bd8d-c4a6bb3c9a38.jpeg)
+
 
 	
 <h2>Sobre mí</h2>

@@ -13,6 +13,10 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 </p>
 
 
+## Últimos articulos publicados
+
+- [QUANT AI](https://quant-ai.herokuapp.com/)	
+	
 <h2>Sobre mí</h2>
 <p align="left">
 	<a href="https://github.com/FidelAlberto"><img src="https://img.shields.io/github/followers/crisgarner.svg?label=GitHub&style=social" alt="GitHub"></a>

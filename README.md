@@ -54,7 +54,7 @@ La mayoría de mis programas estan escritos en Python y  enfocados en  la visual
 
 ### Para Empresas
 
-Me gustaría estar involucrado en proyectos y trabajos variados, relacionados con los mercados financieroso y ciencia de datos para que me de la oportunidad de establecer nuevos contactos dentro de la empresa y aprender de personal más experimentado. Soy
+Me gustaría estar involucrado en proyectos y trabajos variados, relacionados con los mercados financieros y ciencia de datos para que me de la oportunidad de establecer nuevos contactos dentro de la empresa y aprender de personal más experimentado. Soy
 un profesional de mente abierta y orientado a objetivos y me encantaría tener la oportunidad de contribuir a la calidad, el rendimiento y la fiabilidad de fantásticas empresas. Además de utilizar toda mi pericia científica y otras habilidades para ayudarle a seguir creciendo en el futuro.
 
 ### Equipo VittaQuant

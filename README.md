@@ -66,7 +66,7 @@ Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de env
 
 - [High Frequency Trading](https://medium.com/@fidelalbertoramos/high-frequency-trading-7b25905ff58)
 - [Como crear un bot para hacer trading algorítmico y HFT](https://medium.com/@fidelalbertoramos/como-crear-un-bot-para-trading-algor%C3%ADtmico-y-hft-3af8aa190d02)
-
+- [Como pasar el TensorFlow Developer Certificate Exam](https://www.linkedin.com/pulse/como-pasar-el-tensorflow-developer-certificate-exam-ramos/)
 
 
 

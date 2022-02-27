@@ -1,15 +1,14 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 Soy un programador de Perú.  Mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Economía, Trading algorítmico y la Inteligencia Artificial aplicada.
-La mayoría de mis programas estan escritos en Python y enfocados en la visualización de datos, predicción y análisis con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) 
-
+La mayoría de mis programas estan escritos en Python y enfocados en la visualización de datos, predicción y análisis.
 
 
 </p>
 
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-<a href="https://www.youtube.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@fidelalbertoramos"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<a href="https://www.youtube.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 	
 	
 

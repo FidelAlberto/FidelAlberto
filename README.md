@@ -12,7 +12,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
  
  
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
+
   <p align="center">
    <a href="mailto:fidel@vittaquant-ai.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

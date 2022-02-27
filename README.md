@@ -26,7 +26,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br />
@@ -40,7 +40,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
-- **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh.
+- **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh, Tensorflow
 - **Competitive Programming** -  Python
 - **Web Development** - Typescript, Javascript, HTML , CSS, MongoDb
 
@@ -57,7 +57,7 @@ Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  ver
 - 6.3 Millones administrados (USD)
 - 2 Sistemas de alta frecuencia para la creación de mercado
 - 4 Inversores Institucionales  confian en nosotros
-- Un promedio de 18% de rendimiento anual
+- Un promedio de 16% de rendimiento anual
 
 Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
 

@@ -14,9 +14,9 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 <p>
   📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
   <p align="center">
-   <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+   <a href="mailto:fidel@vittaquant-ai.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <h2>Últimos artículos publicados</h2>

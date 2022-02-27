@@ -18,7 +18,7 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 - [Como crear un bot para hacer trading algorítmico y HFT](https://medium.com/@fidelalbertoramos/como-crear-un-bot-para-trading-algor%C3%ADtmico-y-hft-3af8aa190d02)
 - [Como pasar el TensorFlow Developer Certificate Exam](https://www.linkedin.com/pulse/como-pasar-el-tensorflow-developer-certificate-exam-ramos/)
 
-
+---
 	
 <h2>Sobre mí</h2>
 <p align="left">

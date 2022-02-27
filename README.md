@@ -1,4 +1,4 @@
-# ¡Hola! Soy Fidel Alberto Ramos 👋<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando inteligencia artificial, estrategias de trading algorítmico y análisis econométrico  con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) / [JavaScript](https://www.javascript.com/), fáciles de usar y construidas con las mejores prácticas.
 

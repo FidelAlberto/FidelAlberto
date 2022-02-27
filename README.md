@@ -1,6 +1,7 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando inteligencia artificial, estrategias de trading algorítmico y análisis econométrico  con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) / [JavaScript](https://www.javascript.com/), fáciles de usar y construidas con las mejores prácticas.
+Soy un programador de Perú.  Mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Economía, Trading algorítmico y la Inteligencia Artificial aplicada.
+La mayoría de mis programas estan escritos en Python y enfocados en la visualización de datos, predicción y análisis con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) 
 
 
 
@@ -20,16 +21,6 @@ Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando 
 - [Como pasar el TensorFlow Developer Certificate Exam](https://www.linkedin.com/pulse/como-pasar-el-tensorflow-developer-certificate-exam-ramos/)
 
 
-	
-<h2>Sobre mí</h2>
-<p align="left">
-	<a href="https://github.com/FidelAlberto"><img src="https://img.shields.io/github/followers/crisgarner.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/vittaquant"><img src="https://img.shields.io/twitter/follow/crisgarner?label=Twitter&style=social" alt="Twitter"></a>
-</p>
-
-Hola! mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Matemática, Economía y la Inteligencia Artificial aplicada.
-
-La mayoría de mis programas estan escritos en Python y  enfocados en  la visualización de datos, predicción  y análisis para encontrar soluciones a problemas prácticos y de gran utilidad a nuestra sociedad.
 
 ## **Languajes y Herramientas:**  
 

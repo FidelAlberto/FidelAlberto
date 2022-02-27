@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 Soy un programador de Perú. Me gusta crear aplicaciones web rápidas aplicando inteligencia artificial, estrategias de trading algorítmico y análisis econométrico  con [Python](https://www.python.org/) / [C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/) / [JavaScript](https://www.javascript.com/), fáciles de usar y construidas con las mejores prácticas.
 

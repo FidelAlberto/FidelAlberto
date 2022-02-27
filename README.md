@@ -8,7 +8,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 <p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-<a href="https://www.youtube.com/vittaquant"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
+<a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
  
  
 <p>
@@ -47,8 +47,10 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
 - **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh, Tensorflow
-- **Competitive Programming** -  Python
-- **Web Development** - Typescript, Javascript, HTML , CSS, MongoDb
+- **Programación** -  Python
+- **Bases de Datos** -  MongoDb, Mysql, PostgreSQL
+- **Cloud** -  AWS, GCP, Azure
+- **Big data - MLOps** -  Spark, Databricks, Docker
 
 ### Para Empresas
 

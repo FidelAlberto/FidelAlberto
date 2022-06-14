@@ -8,7 +8,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://vittaquant-ai.com/wp-content/uploads/2022/06/CV-Fidel-Ramos.pdf">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,14 +17,14 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   <p align="center">
     Tambien puedes ver mi portafolio
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mi Portafolio »</strong></a>
+    <a href="https://fidel-ramos.netlify.app/#top"><strong>Mi Portafolio »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">YouTube</a>
+    <a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA">YouTube</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/">LinkedIn</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Gmail</a>
+    <a href="mailto:fidelalbertoramos.c@gmail.com">Gmail</a>
   </p>
 </div>
 

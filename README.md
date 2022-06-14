@@ -15,7 +15,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   <h3 align="center">Descargar Curriculum Vitae</h3>
 
   <p align="center">
-    Puedes descargar mi CV directamente
+    Tambien puedes ver mi portafolio
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mi Portafolio »</strong></a>
     <br />

@@ -46,6 +46,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 <h2>Últimos artículos publicados</h2>
 
+- [Como pasar el AWS Cloud Practitioner Exam](https://www.linkedin.com/pulse/aws-certified-cloud-practitioner-fidel-alberto-ramos/)
 - [High Frequency Trading](https://www.linkedin.com/pulse/high-frequency-trading-fidel-alberto-ramos/)
 - [Como crear un bot para hacer trading algorítmico y HFT](https://www.linkedin.com/pulse/como-crear-un-bot-para-hacer-trading-algor%C3%ADtmico-y-hft-ramos/)
 - [Como pasar el TensorFlow Developer Certificate Exam](https://www.linkedin.com/pulse/como-pasar-el-tensorflow-developer-certificate-exam-ramos/)

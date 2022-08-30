@@ -8,7 +8,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://vittaquant-ai.com/wp-content/uploads/2022/06/CV-Fidel-Ramos.pdf">
+  <a href="">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 

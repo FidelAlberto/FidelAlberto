@@ -55,7 +55,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 ## **Languajes y Herramientas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,py,pytorch,tensorflow,git,postgres&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,py,pytorch,tensorflow,git,postgres,mongodb&perline=6)](https://skillicons.dev)
 
 
 
@@ -89,7 +89,7 @@ Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  ver
 - 1 Sistema de alta frecuencia para la creación de mercado
 - 1 Sistema automático  en el mercado de Futuros  y CFDs 
 - 2 Inversores Institucionales  confian en nosotros
-- Un promedio de 16% de rendimiento anual
+- Un promedio de 15% de rendimiento anual
 
 Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
 

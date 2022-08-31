@@ -20,11 +20,6 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
     <a href="https://fidel-ramos.netlify.app/#top"><strong>Mi Portafolio »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA">YouTube</a>
-    ·
-    <a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/">LinkedIn</a>
-    ·
-    <a href="mailto:fidelalbertoramos.c@gmail.com">Gmail</a>
   </p>
 </div>
 

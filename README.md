@@ -55,7 +55,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
 ## **Languajes y Herramientas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,py,pytorch,tensorflow,git,postgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,py,pytorch,tensorflow,git,postgres&perline=2)](https://skillicons.dev)
 
 
 

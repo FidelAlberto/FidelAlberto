@@ -1,7 +1,7 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 Soy un programador de Perú.  Mi trabajo se encuentra en la intersección entre la Ciencia de Datos, Economía, Trading algorítmico y la Inteligencia Artificial aplicada.
-La mayoría de mis programas estan escritos en Python y enfocados en la visualización de datos, predicción y análisis.
+La mayoría de mis programas estan escritos en Python y enfocados en la visualización, automatización, predicción y análisis de datos.
 <div id="top"></div>
 
 

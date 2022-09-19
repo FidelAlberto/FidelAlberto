@@ -17,7 +17,9 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   <p align="center">
     Tambien puedes ver mi portafolio
     <br />
+    <!--
     <a href="https://vittaquant-ai.com"><strong>Mi portafolio »</strong></a>
+    -->
     <br />
     <br />
   </p>

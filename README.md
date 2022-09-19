@@ -15,9 +15,9 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   <h3 align="center">Descargar Curriculum Vitae</h3>
 
   <p align="center">
+    <!--
     Tambien puedes ver mi portafolio
     <br />
-    <!--
     <a href="https://vittaquant-ai.com"><strong>Mi portafolio »</strong></a>
     -->
     <br />

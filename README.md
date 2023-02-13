@@ -25,7 +25,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   </p>
   -->
 </div>
--->
+
 
 </p>
 

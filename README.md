@@ -5,7 +5,8 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 <div id="top"></div>
 
 
-<!-- PROJECT LOGO -->
+
+<!-- PROJECT LOGO 
 <br />
 <div align="center">
   <a href="">
@@ -24,7 +25,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
   </p>
   -->
 </div>
-
+-->
 
 </p>
 

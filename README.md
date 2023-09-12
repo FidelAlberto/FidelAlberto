@@ -38,7 +38,7 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 
   <p align="center">
    <a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 

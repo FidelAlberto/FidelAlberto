@@ -71,13 +71,12 @@ un profesional de mente abierta y orientado a objetivos y me encantaría tener l
 
 ### Equipo VittaQuant
 
-Formo parte del equipo de Vittaquant Investments , una empresa de comercio algorítmico y HFT .
+Formo parte del equipo de Vittaquant Investments , una empresa de inversión a largo plazo, comercio algorítmico y HFT .
 Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  verla crecer hasta  conseguir sus primeros clientes institucionales , es  grato además ver sus resultados como una extensión de mis esfuerzos:
 
-- 80'000 administrados (USD)
+- 60'000 administrados (USD)
 - 1 Sistema de alta frecuencia para la creación de mercado
 - 1 Sistema automático  en el mercado de Futuros  y CFDs 
-- 2 Inversores Institucionales  confian en nosotros
 - Un promedio de 15% de rendimiento anual
 
 Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!

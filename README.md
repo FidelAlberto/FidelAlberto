@@ -63,22 +63,5 @@ La mayoría de mis programas estan escritos en Python y enfocados en la visualiz
 - **Bases de Datos** -  MongoDb, Mysql, PostgreSQL
 - **Cloud** -  AWS, GCP, Azure
 - **Big data - MLOps** -  Spark, Databricks, Docker
-  
-### Para Empresas
-
-Me gustaría estar involucrado en proyectos y trabajos variados, relacionados con los mercados financieros y ciencia de datos para que me de la oportunidad de establecer nuevos contactos dentro de la empresa y aprender de personal más experimentado. Soy
-un profesional de mente abierta y orientado a objetivos y me encantaría tener la oportunidad de contribuir a la calidad, el rendimiento y la fiabilidad de fantásticas empresas. Además de utilizar toda mi pericia científica y otras habilidades para ayudarle a seguir creciendo en el futuro.
-
-### Equipo VittaQuant
-
-Formo parte del equipo de Vittaquant Investments , una empresa de inversión a largo plazo, comercio algorítmico y HFT .
-Una empresa a la que tuve la  fortuna de ingresar  a sus inicios(2018) para  verla crecer hasta  conseguir sus primeros clientes institucionales , es  grato además ver sus resultados como una extensión de mis esfuerzos:
-
-- 60'000 administrados (USD)
-- 1 Sistema de alta frecuencia para la creación de mercado
-- 1 Sistema automático  en el mercado de Futuros  y CFDs 
-- Un promedio de 15% de rendimiento anual
-
-Si tienes preguntas o quieres pertenecer a nuestro equipo siéntete libre de enviar un tweet  a [@vittaquant](https://twitter.com/vittaquant) o un correo a [fidel@vittaquant-ai.com](mailto:fidel@vittaquant-ai.com) .Gracias!
-
+ 
 

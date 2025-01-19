@@ -62,7 +62,7 @@ La mayoría de mis desarrollos se enfocan en la visualización avanzada, la auto
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
 - **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh, Tensorflow
 - **Programación** -  Python
-- **Bases de Datos** -  MongoDb, Mysql, PostgreSQL
+- **Bases de Datos** -  MongoDb, Mysql, PostgreSQL, SQLServer
 - **Cloud** -  AWS, GCP, Azure
 - **Big data - MLOps** -  Spark, Databricks, Docker
  

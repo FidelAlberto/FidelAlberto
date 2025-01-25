@@ -31,14 +31,15 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
 </p>
 <p align="center"><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
+<a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCCXjqeeYtqg3ez-dlnlesmA
+" alt="drawing" width="120"/>
  
 <p>
 
   <p align="center">
    <a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <!--   &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/twitter/follow/VittaQuant"/></a>
 </p>
 
 <h2>Últimos artículos publicados</h2>

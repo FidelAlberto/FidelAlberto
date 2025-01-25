@@ -28,14 +28,10 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
   -->
 </div>
 
-
 </p>
-
-<p align="center">¡Revisa mi contenido 👇!</p>
+<p align="center"><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-
 <a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
- 
  
 <p>
 

@@ -1,8 +1,8 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-Soy un profesional peruano especializado en análisis cuantitativo, ciencia de datos e ingeniería de datos. Mi experiencia abarca la intersección de la Ciencia de Datos, Economía e Inteligencia Artificial aplicada, permitiéndome abordar problemas complejos y generar soluciones basadas en datos.
+Soy un profesional con amplia experiencia en análisis cuantitativo, ciencia de datos e ingeniería de datos. A lo largo de mi trayectoria, he trabajado en la resolución de problemas complejos mediante el diseño de soluciones basadas en datos, combinando técnicas avanzadas de análisis, automatización y visualización.
 
-La mayoría de mis desarrollos se enfocan en la visualización avanzada, la automatización de procesos, la predicción y el análisis de datos. Mi objetivo es transformar datos en conocimiento accionable para impulsar decisiones estratégicas.
+Mi enfoque se centra en convertir datos en información valiosa, impulsando decisiones estratégicas y generando impacto tangible en los proyectos en los que participo.
 
 <div id="top"></div>
 
@@ -31,8 +31,9 @@ La mayoría de mis desarrollos se enfocan en la visualización avanzada, la auto
 
 </p>
 
-<p align="center">Soy <strong>un programador</strong> con 5 años experiencia. <br />¡Revisa mi contenido 👇!</p>
+<p align="center">¡Revisa mi contenido 👇!</p>
 <p align="center">
+
 <a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
  
  
@@ -53,9 +54,11 @@ La mayoría de mis desarrollos se enfocan en la visualización avanzada, la auto
 
 
 
+
+
 ## **Languajes y Herramientas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,py,pytorch,tensorflow,git,postgres,mongodb,linux,latex&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,sklearn,py,pytorch,tensorflow,git,postgres,mongodb,linux,latex&perline=6)](https://skillicons.dev)
 
 
 
@@ -65,5 +68,6 @@ La mayoría de mis desarrollos se enfocan en la visualización avanzada, la auto
 - **Bases de Datos** -  MongoDb, Mysql, PostgreSQL, SQLServer
 - **Cloud** -  AWS, GCP, Azure
 - **Big data - MLOps** -  Spark, Databricks, Docker
- 
+ Si el texto es en git
+
 

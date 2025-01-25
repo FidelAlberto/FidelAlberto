@@ -29,7 +29,7 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
 </div>
 
 </p>
-<p align="center"><br />¡Revisa mi contenido 👇!</p>
+<p align="center"><br />¡Sigue mi contenido 👇!</p>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCCXjqeeYtqg3ez-dlnlesmA
 " alt="drawing" width="120"/>

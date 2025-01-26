@@ -28,18 +28,17 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
   -->
 </div>
 
-</p>
-<p align="center"><br />¡Sigue mi contenido 👇!</p>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCCXjqeeYtqg3ez-dlnlesmA"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCCXjqeeYtqg3ez-dlnlesmA
-" alt="drawing" width="120"/>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=650&lines=La+mejor+manera+de+predecir+el+futuro+es+crearlo;%C2%A1Sigue+mi+contenido+%F0%9F%91%87!" /></a>
+</p>
+</p>
  
 <p>
-
   <p align="center">
-   <a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<!--   &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/twitter/follow/VittaQuant"/></a>
+   <a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  
 </p>
 
 <h2>Últimos artículos publicados</h2>

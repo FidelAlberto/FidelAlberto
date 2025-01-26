@@ -37,7 +37,7 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
  
 <p>
   <p align="center">
-   <a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+   <a href="https://www.youtube.com/@vittaquant"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   
 </p>
 

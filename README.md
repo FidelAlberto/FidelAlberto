@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Fidel Alberto Ramos 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>¡Hola! Soy Fidel Alberto Ramos</h1>
 
 Soy un profesional con amplia experiencia en análisis cuantitativo, ciencia de datos e ingeniería de datos. A lo largo de mi trayectoria, he trabajado en la resolución de problemas complejos mediante el diseño de soluciones basadas en datos, combinando técnicas avanzadas de análisis, automatización y visualización.
 

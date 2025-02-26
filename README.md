@@ -64,6 +64,6 @@ Mi enfoque se centra en convertir datos en información valiosa, impulsando deci
 - **Bases de Datos** -  MongoDb, Mysql, PostgreSQL, SQLServer
 - **Cloud** -  AWS, GCP, Azure
 - **Big data - MLOps** -  Spark, Databricks, Docker
- Si el texto es en git
+
 
 

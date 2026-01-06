@@ -4,10 +4,6 @@ Soy un profesional con amplia experiencia en finanzas cuantitativas, ciencia de 
 
 Mi enfoque se centra en transformar datos en información de alto valor para impulsar decisiones estratégicas y generar impacto tangible, tanto en entornos tecnológicos como financieros.
 
-<h2>Fundador de VittaQuant Capital</h2>
-
-VittaQuant Capital es una gestora de inversiones cuantitativa independiente, especializada en el diseño y gestión de estrategias de inversión basadas en ciencia de datos, analítica avanzada, inteligencia artificial y modelos estadísticos. Nos enfocamos en ofrecer a inversionistas individuales, profesionales y familias una alternativa moderna a la banca tradicional, combinando disciplina cuantitativa, diversificación global y una gestión rigurosa del riesgo.
-
 <div id="top"></div>
 
 
@@ -44,7 +40,10 @@ VittaQuant Capital es una gestora de inversiones cuantitativa independiente, esp
    <a href="https://www.youtube.com/@vittaquant"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="mailto:fidelalbertoramos.c@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/fidel-alberto-ramos-950079186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://twitter.com/VittaQuant"><img src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   
 </p>
+<div id="top"></div>
+<h2>Fundador de VittaQuant Capital</h2>
 
+VittaQuant Capital es una gestora de inversiones cuantitativa independiente, especializada en el diseño y gestión de estrategias de inversión basadas en ciencia de datos, analítica avanzada, inteligencia artificial y modelos estadísticos. Nos enfocamos en ofrecer a inversionistas individuales, profesionales y familias una alternativa moderna a la banca tradicional, combinando disciplina cuantitativa, diversificación global y una gestión rigurosa del riesgo.
 <h2>Últimos artículos publicados</h2>
 
 - [Como pasar el AWS Cloud Practitioner Exam](https://www.linkedin.com/pulse/aws-certified-cloud-practitioner-fidel-alberto-ramos/)

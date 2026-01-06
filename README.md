@@ -1,8 +1,12 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos</h1>
 
-Soy un profesional con amplia experiencia en análisis cuantitativo, ciencia de datos e ingeniería de datos. A lo largo de mi trayectoria, he trabajado en la resolución de problemas complejos mediante el diseño de soluciones basadas en datos, combinando técnicas avanzadas de análisis, automatización y visualización.
+Soy un profesional apasionado y con amplia experiencia en finanzas cuantitativas, inteligencia artificial, análisis avanzado, ciencia de datos e ingeniería de datos. A lo largo de mi trayectoria, he trabajado en la resolución de problemas complejos mediante el diseño de soluciones basadas en datos, combinando técnicas avanzadas de análisis cuantitativo, automatización, modelado estadístico y visualización.
 
-Mi enfoque se centra en convertir datos en información valiosa, impulsando decisiones estratégicas y generando impacto tangible en los proyectos en los que participo.
+Mi enfoque se centra en transformar datos en información de alto valor, impulsando decisiones estratégicas y generando impacto tangible en los proyectos en los que participo, tanto en entornos tecnológicos como financieros.
+
+<h2>Fundador de VittaQuant Capital</h2>
+
+VittaQuant Capital es una gestora de inversiones cuantitativa independiente, especializada en el diseño y gestión de estrategias de inversión basadas en ciencia de datos, analítica avanzada, inteligencia artificial y modelos estadísticos. Nos enfocamos en ofrecer a inversionistas individuales, profesionales y familias una alternativa moderna a la banca tradicional, combinando disciplina cuantitativa, diversificación global y una gestión rigurosa del riesgo.
 
 <div id="top"></div>
 

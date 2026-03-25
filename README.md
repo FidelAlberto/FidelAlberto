@@ -1,6 +1,6 @@
 <h1>¡Hola! Soy Fidel Alberto Ramos</h1>
 
-Soy un profesional con amplia experiencia en finanzas cuantitativas, ciencia de datos e ingeniería de datos. A lo largo de mi trayectoria, he abordado problemas complejos mediante soluciones basadas en datos, integrando análisis cuantitativo, inteligencia artificial, automatización, modelado estadístico y visualización.
+Soy un profesional con amplia experiencia en ingeniería de datos, finanzas cuantitativas y ciencia de datos. A lo largo de mi trayectoria, he abordado problemas complejos mediante soluciones basadas en datos, integrando análisis cuantitativo, inteligencia artificial, automatización, modelado estadístico y visualización.
 
 Mi enfoque se centra en transformar datos en información de alto valor para impulsar decisiones estratégicas y generar impacto tangible, tanto en entornos tecnológicos como financieros.
 
